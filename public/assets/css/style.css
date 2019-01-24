@@ -1,0 +1,62 @@
+body {
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+#banner {
+  background-color: rgb(240, 129, 2);
+  border: 2px solid yellow;
+}
+
+
+
+
+#small-burger {
+  width: 20px;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+  background-color: white;
+  color:rgb(110, 9, 85);
+}
+
+ul {
+  padding: 5px;
+  margin: 15px;
+  background: #faebd7;
+}
+
+button {
+  background-color: green;
+  border: yellow;
+  color: white;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.container {
+  padding: 5px;
+  margin: 20px;
+  background: rgb(255, 255, 0);
+  align-content: center;
+  opacity: .9;
+  width: 100%;
+}
+
+.order-container {
+  padding: 10px;
+  margin: 20px;
+  background: rgb(255, 255, 0);
+  align-content: center;
+  width: 100%;
+}
